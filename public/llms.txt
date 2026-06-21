@@ -1,0 +1,102 @@
+# Kasorla — Generative Engine Optimization Map
+
+> An apparel and accessories store selling shirts, pants, and hats. The brand focuses on clothing retail with a diverse product range spanning tops, bottoms, and headwear.
+
+---
+
+## Pages
+
+### בית
+https://kasorla-c2a3ebf8.zappy5.app
+ברוכים הבאים לקאסורלה – חנות אופנה והלבשה מובילה לחולצות, מכנסיים וכובעים. עדכני, מגוון ומלא סטייל. הצטרף עכשיו לחוויית שופינג בלתי נשכחת.
+
+### סיפור סגנון
+https://kasorla-c2a3ebf8.zappy5.app/style-story
+הצצה אל מאחורי הקלעים של קאסורלה: התשוקה לאופנה, ההשראה מאנשים אמיתיים והדרך שבה כל חולצה ומכנסיים מקבלים חיים. בואו להכיר את הסיפור שמלביש אתכם.
+
+### לוקבוק
+https://kasorla-c2a3ebf8.zappy5.app/lookbook
+לוקבוק קאסורלה חושף שילובים מנצחים של חולצות, מכנסיים וכובעים שמשדרגים כל הופעה. קחו השראה, צרו את הלוק המושלם שלכם והתחילו להתבלט בכל מקום.
+
+### צור קשר
+https://kasorla-c2a3ebf8.zappy5.app/contact
+יש שאלה על מידה, משלוח או סתם בא לך לדבר אופנה? צוות קאסורלה זמין עבורך. מלאו את הטופס וקבלו מענה אישי ומהיר – כי מגיע לך שירות ברמה אחרת.
+
+### Products
+https://kasorla-c2a3ebf8.zappy5.app/products
+המוצרים שלנו - Kasorla
+
+### Cart
+https://kasorla-c2a3ebf8.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://kasorla-c2a3ebf8.zappy5.app/checkout
+תשלום
+
+### Login
+https://kasorla-c2a3ebf8.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://kasorla-c2a3ebf8.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://kasorla-c2a3ebf8.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://kasorla-c2a3ebf8.zappy5.app/product/:slug
+פרטי המוצר - Kasorla
+
+### Category
+https://kasorla-c2a3ebf8.zappy5.app/category/:slug
+מוצרים - Kasorla
+
+### תודה שפניתם אלינו
+https://kasorla-c2a3ebf8.zappy5.app/thank-you
+Kasorla - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://kasorla-c2a3ebf8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://kasorla-c2a3ebf8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://kasorla-c2a3ebf8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Kasorla
+An apparel and accessories store selling shirts, pants, and hats. The brand focuses on clothing retail with a diverse product range spanning tops, bottoms, and headwear.
+
+## Target Audience
+- בני נוער עוקבי טרנדים
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://kasorla-c2a3ebf8.zappy5.app/sitemap.xml
+- Robots: https://kasorla-c2a3ebf8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://kasorla-c2a3ebf8.zappy5.app/llms-full.txt
+- Products (JSON): https://kasorla-c2a3ebf8.zappy5.app/products.json
+- Products (Google Merchant RSS): https://kasorla-c2a3ebf8.zappy5.app/product-feed.xml
